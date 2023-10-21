@@ -2,10 +2,10 @@ def addition(a,b):
     return a+b 
 addition(4,6)
 
-def multiply(a,b):
-    return a*b
+def multiply(a,b,c):
+    return a*b*c
 
-multiply(3,4)
+multiply(3,4,5)
 
 def division(a,b):
     return a/b
