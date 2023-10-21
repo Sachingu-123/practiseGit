@@ -1,3 +1,3 @@
 def addition(a,b):
     return a+b 
-addition(3,4)
+addition(4,6)
