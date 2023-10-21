@@ -2,8 +2,8 @@ def addition(a,b,e):
     return a+b+e 
 addition(4,6)
 
-def multiply(a,b):
-    return a*b
+def multiply(a,b,e):
+    return a*b*e
 
 multiply(3,4)
 
